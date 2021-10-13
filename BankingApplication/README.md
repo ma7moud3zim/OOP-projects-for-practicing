@@ -1,5 +1,6 @@
-#Banking System
-##The application is used to done some tasks 
+# Banking System
+
+## The application is used to done some tasks 
 ## First: It shows the welcome message 
 
 ## After that the user choose from next:
